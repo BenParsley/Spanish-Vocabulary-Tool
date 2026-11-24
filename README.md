@@ -2,6 +2,8 @@
 
 A lightweight browser-based Spanish practice app (Panamanian Spanish) focused on vocabulary training, grammar topic breakdowns, and competitive learning modes.
 
+![demo](screenshots/demo.gif)
+
 ## Features
 
 ### Vocabulary
